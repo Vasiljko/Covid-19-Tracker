@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-color: #f5f6fa;
+}
+
+.App {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.app__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  overflow-x: hidden;
+}
+
+.app__header h1 {
+  color: #a62d2d;
+  font-size: 2rem;
+}
+
+.app__dropdown {
+  background-color: white;
+}
+
+.app__left {
+  flex: 0.9;
+}
+
+.app__stats {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (max-width: 990px) {
+  .App {
+    flex-direction: column;
+  }
+}

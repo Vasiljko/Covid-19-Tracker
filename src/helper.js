@@ -17,7 +17,7 @@ const casesTypeColors = {
   },
 };
 
-//###################  SORT  DATA  FOR  TABEL   ############################
+//###################  SORT  DATA  FOR  TABLE   ############################
 
 export const sortData = (data, casesType) => {
   const sortedData = [...data];

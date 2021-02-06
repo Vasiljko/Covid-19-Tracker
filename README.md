@@ -4,6 +4,6 @@ React Web Application for tracking live Covid-19 results. Used Firebase for host
 
 This project was created with Create React App.
 
-In order to run it, you should and use `npm start` in order to start React app.
+You should use `npm start` in order to start React app.
 
 ![image](https://user-images.githubusercontent.com/16977953/107118240-f8d86a80-687f-11eb-97f1-62e8e4471086.png)

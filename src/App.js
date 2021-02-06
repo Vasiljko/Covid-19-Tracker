@@ -47,7 +47,7 @@ function App() {
     getCountriesData();
   }, []);
 
-  //###################  INITIAL  INFORMATIONS FOR WORLDWIDE   ###################################
+  //###############  INITIAL  INFORMATIONS FOR WORLDWIDE   ##################
 
   useEffect(() => {
     const loadWorldwideData = async () => {

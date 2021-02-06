@@ -2,9 +2,7 @@
 
 React Web Application for tracking live Covid-19 results. Used Firebase for hosting and deploying the application (https://covid-19-tracker-61d96.web.app/)
 
-This project was bootstrapped with Create React App.
-
-You should use `npm start` in order to start React app.
+This project was bootstrapped with Create React App. You should use `npm start` in order to start React app.
 
 Click the info box in order to change data on the map and data on the right side.
 
